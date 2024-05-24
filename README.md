@@ -19,8 +19,8 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.com/tv/{频道名称}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.3.15    |
-| 📻广播  | [https://live.fanmingming.com/radio/{频道名称}.png](https://github.com/fanmingming/live/tree/main/radio) | 2023.8.27   |
+| 📺电视  | [https://live.fanmingming.com/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.3.15    |
+| 📻广播  | [https://live.fanmingming.com/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) | 2023.8.27   |
 
 ### ⛓️创建您的m3u订阅链接：
  - 下载 `demo.m3u` 空白示例文件并使用文本编辑软件打开。
@@ -46,7 +46,7 @@
   -  [https://live.fanmingming.com/e.xml](https://live.fanmingming.com/e.xml)
 - 🏞️**Bing每日图片**：
   -  [https://fanmingming.com/bing](https://fanmingming.com/bing)
-- 🎞️**m3u8下载工具**：
+- 🎞️**m3u8在线下载**：
   -  [https://live.fanmingming.com/m3u8](https://live.fanmingming.com/m3u8)
 - 🆕**TXT转M3U格式**：
   - [https://live.fanmingming.com/txt2m3u](https://live.fanmingming.com/txt2m3u)
